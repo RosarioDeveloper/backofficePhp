@@ -1,4 +1,0 @@
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/angolasites/backoffice.angolasites.com/repo/
-    - /bin/cp -R * $DEPLOYPATH
