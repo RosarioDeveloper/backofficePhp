@@ -8,7 +8,7 @@ class Router
    function __construct()
    {
       $this->response['error'] = "Cannot Get";
-      $this->dir = '/repo/backoffice';
+      $this->dir = '';
       $this->urlServer = $_SERVER['REQUEST_URI'];
       $this->reqMethod = $_SERVER['REQUEST_METHOD'];
       $this->req = json_decode(file_get_contents('php://input'), true);
