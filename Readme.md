@@ -1,3 +1,10 @@
-# Backoffoce
+# Backoffice PHP
+Este projecto foi desenvolvido com Php V.7.2
 
-Desenvolvido por Rosário Massango
+## Desenvolvedor
+Rosário Massango
+
+Facebook:
+Instagram:
+Youtube:
+Twitter:
